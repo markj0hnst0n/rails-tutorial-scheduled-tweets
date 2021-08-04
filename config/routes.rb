@@ -22,5 +22,7 @@ Rails.application.routes.draw do
 
   get "/auth/twitter/callback", to: "omniauth_callbacks#twitter"
 
+  resources :twitter_accounts
+
   # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
 end
