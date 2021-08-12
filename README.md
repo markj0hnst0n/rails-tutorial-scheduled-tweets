@@ -1,5 +1,7 @@
 # README
 
+A link to the live project deployed on heroku: https://tweet-scheduler-r-on-rails.herokuapp.com/
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
